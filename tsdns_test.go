@@ -1,9 +1,9 @@
-package goTSDNS
+package goTSDNS_test
 
 import (
-    "github.com/Freaxbot/TSDNS"
     "log"
     "testing"
+    "github.com/Freaxbot/TSDNS"
 )
 
 func TestLookup(t *testing.T) {
