@@ -1,5 +1,5 @@
 # TSDNS
-This is a TSDNS Implementation in GO.
+This libary establish a connection to the a defined TSDNS and get the IP and Port of an TeamSpeak3 Server behind a domain. 
 
 ---
 ## Example
