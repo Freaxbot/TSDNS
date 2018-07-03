@@ -14,7 +14,7 @@ import (
 
 func main()  {
     res :=goTSDNS.Lookup("public.teamspeak.com", "127.0.0.1")
-    log.Println(("TSDNS :: " + res))
+    log.Println("TSDNS :: " + res)
 }
 ```
 
